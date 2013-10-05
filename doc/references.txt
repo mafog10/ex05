@@ -1,0 +1,2 @@
+Logique inspirée de l'exemple JavaScript disponible à:
+http://www.jakob.at/html5/sierpinski.html

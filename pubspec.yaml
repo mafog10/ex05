@@ -1,0 +1,6 @@
+name: ex05
+version: 1.0.0
+author: Maxim Fournier-Giguère
+description: Exercice 5 SIO-6014 - Triangle de Sierpinski
+dependencies:
+  browser: any
